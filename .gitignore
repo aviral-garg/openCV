@@ -1,0 +1,212 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+/Exercise Files/Ch02/02_01 Begin/opencv-logo.png
+/Exercise Files/Ch02/02_01 Begin/output.jpg
+/Exercise Files/Ch02/02_01 End/02_01.py
+/Exercise Files/Ch02/02_01 End/opencv-logo.png
+/Exercise Files/Ch02/02_01 End/output.jpg
+/Exercise Files/Ch02/02_02 Begin/opencv-logo.png
+/Exercise Files/Ch02/02_02 End/02_02.py
+/Exercise Files/Ch02/02_02 End/opencv-logo.png
+/Exercise Files/Ch02/02_03 Begin/02_03.py
+/Exercise Files/Ch02/02_03 End/02_03.py
+/Exercise Files/Ch02/02_04 Begin/02_04.py
+/Exercise Files/Ch02/02_04 Begin/butterfly.jpg
+/Exercise Files/Ch02/02_04 End/02_04.py
+/Exercise Files/Ch02/02_04 End/butterfly.jpg
+/Exercise Files/Ch02/02_05 Begin/02_05.py
+/Exercise Files/Ch02/02_05 Begin/butterfly.jpg
+/Exercise Files/Ch02/02_05 End/02_05.py
+/Exercise Files/Ch02/02_05 End/butterfly.jpg
+/Exercise Files/Ch02/02_05 End/gray.jpg
+/Exercise Files/Ch02/02_05 End/rgba.png
+/Exercise Files/Ch02/02_06 Begin/02_06.py
+/Exercise Files/Ch02/02_06 Begin/thresh.jpg
+/Exercise Files/Ch02/02_06 End/02_06.py
+/Exercise Files/Ch02/02_06 End/thresh.jpg
+/Exercise Files/Ch02/02_07 Begin/02_07.py
+/Exercise Files/Ch02/02_07 Begin/players.jpg
+/Exercise Files/Ch02/02_07 End/02_07.py
+/Exercise Files/Ch02/02_07 End/players.jpg
+/Exercise Files/Ch02/02_08 Begin/02_08.py
+/Exercise Files/Ch02/02_08 End/02_08.py
+/Exercise Files/Ch02/02_09 Begin/02_09.py
+/Exercise Files/Ch02/02_09 End/02_09.py
+/Exercise Files/Ch02/02_10 Begin/02_10.py
+/Exercise Files/Ch02/02_11 Solution/02_11.py
+/Exercise Files/Ch03/03_02 Begin/03_02.py
+/Exercise Files/Ch03/03_02 Begin/detect_blob.png
+/Exercise Files/Ch03/03_02 End/03_02.py
+/Exercise Files/Ch03/03_02 End/detect_blob.png
+/Exercise Files/Ch03/03_03 Begin/03_03.py
+/Exercise Files/Ch03/03_03 Begin/sudoku.png
+/Exercise Files/Ch03/03_03 End/03_03.py
+/Exercise Files/Ch03/03_03 End/sudoku.png
+/Exercise Files/Ch03/03_04 Begin/03_04.py
+/Exercise Files/Ch03/03_04 Begin/faces.jpeg
+/Exercise Files/Ch03/03_04 End/03_04.py
+/Exercise Files/Ch03/03_04 End/faces.jpeg
+/Exercise Files/Ch03/03_06 Begin/03_06.py
+/Exercise Files/Ch03/03_06 Begin/detect_blob.png
+/Exercise Files/Ch03/03_06 End/03_06.py
+/Exercise Files/Ch03/03_06 End/detect_blob.png
+/Exercise Files/Ch03/03_07 Begin/03_07.py
+/Exercise Files/Ch03/03_07 Begin/detect_blob.png
+/Exercise Files/Ch03/03_07 End/03_07.py
+/Exercise Files/Ch03/03_07 End/detect_blob.png
+/Exercise Files/Ch03/03_08 Begin/03_08.py
+/Exercise Files/Ch03/03_08 Begin/tomatoes.jpg
+/Exercise Files/Ch03/03_08 End/03_08.py
+/Exercise Files/Ch03/03_08 End/tomatoes.jpg
+/Exercise Files/Ch03/03_10 Begin/03_10.py
+/Exercise Files/Ch03/03_10 Begin/fuzzy.png
+/Exercise Files/Ch03/03_11 Solution/03_10.py
+/Exercise Files/Ch03/03_11 Solution/tomatoes.jpg
+/Exercise Files/Ch03/faces copy.jpeg
+/Exercise Files/Ch03/tomatoes.jpg
+/Exercise Files/Ch04/04_03 Begin/04_03.py
+/Exercise Files/Ch04/04_03 Begin/players.jpg
+/Exercise Files/Ch04/04_03 Begin/template.jpg
+/Exercise Files/Ch04/04_03 End/04_03.py
+/Exercise Files/Ch04/04_03 End/players.jpg
+/Exercise Files/Ch04/04_03 End/template.jpg
+/Exercise Files/Ch04/04_03.py
+/Exercise Files/Ch04/04_05 Begin/04_05.py
+/Exercise Files/Ch04/04_05 Begin/faces.jpeg
+/Exercise Files/Ch04/04_05 Begin/haarcascade_frontalface_default.xml
+/Exercise Files/Ch04/04_05 End/04_05.py
+/Exercise Files/Ch04/04_05 End/faces.jpeg
+/Exercise Files/Ch04/04_05 End/haarcascade_frontalface_default.xml
+/Exercise Files/Ch04/04_06 Begin/04_06.py
+/Exercise Files/Ch04/04_06 Begin/faces.jpeg
+/Exercise Files/Ch04/04_06 Begin/haarcascade_eye.xml
+/Exercise Files/Ch04/04_07 Solution/04_06.py
+/Exercise Files/Ch04/04_07 Solution/faces.jpeg
+/1_load_save/output.jpg
